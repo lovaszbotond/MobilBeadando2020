@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IForgotSomething</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">No Data</string>
+    <string name="cim">Cím</string>
+    <string name="tartalom">Tartalom</string>
+    <string name="kereses">Kereses</string>
+    <string name="szures">Szures</string>
+    <string name="fontos">Fontos</string>
+    <string name="raer">Raer</string>
+    <string name="osszes_torlese">Osszes torlese</string>
+    <string name="hozzaad">Hozzaad</string>
+    <string name="mentes">Mentes</string>
+    <string name="torles">Torles</string>
+
+    <string-array name="fontossagiSorrend">
+        <item>Fontos</item>
+        <item>Kevesbe Fontos</item>
+        <item>Raer</item>
+    </string-array>
+</resources>
